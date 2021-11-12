@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<athletes>
+    <athlete>
+        <name>John Smith</name>
+        <rank>1</rank>
+        <score>4200</score>
+        <performance>
+            <sprint100Meters>12.61</sprint100Meters>
+            <longJump>5.0</longJump>
+            <shotPut>9.22</shotPut>
+            <highJump>1.5</highJump>
+            <sprint400Meters>12.61</sprint400Meters>
+            <sprintHurdles>16.43</sprintHurdles>
+            <discusThrow>21.6</discusThrow>
+            <poleVault>2.6</poleVault>
+            <javelinThrow>35.81</javelinThrow>
+            <sprint1500Meters>325.72</sprint1500Meters>
+        </performance>
+    </athlete>
+    <athlete>
+        <name>Jaan Lepp</name>
+        <rank>2</rank>
+        <score>3494</score>
+        <performance>
+            <sprint100Meters>13.75</sprint100Meters>
+            <longJump>4.84</longJump>
+            <shotPut>10.12</shotPut>
+            <highJump>1.5</highJump>
+            <sprint400Meters>13.75</sprint400Meters>
+            <sprintHurdles>19.18</sprintHurdles>
+            <discusThrow>30.85</discusThrow>
+            <poleVault>2.8</poleVault>
+            <javelinThrow>33.88</javelinThrow>
+            <sprint1500Meters>382.75</sprint1500Meters>
+        </performance>
+    </athlete>
+    <athlete>
+        <name>Jane Doe</name>
+        <rank>3-4</rank>
+        <score>3199</score>
+        <performance>
+            <sprint100Meters>13.04</sprint100Meters>
+            <longJump>4.53</longJump>
+            <shotPut>7.79</shotPut>
+            <highJump>1.55</highJump>
+            <sprint400Meters>13.04</sprint400Meters>
+            <sprintHurdles>18.74</sprintHurdles>
+            <discusThrow>24.2</discusThrow>
+            <poleVault>2.4</poleVault>
+            <javelinThrow>28.2</javelinThrow>
+            <sprint1500Meters>410.76</sprint1500Meters>
+        </performance>
+    </athlete>
+    <athlete>
+        <name>Jane Dawson</name>
+        <rank>3-4</rank>
+        <score>3199</score>
+        <performance>
+            <sprint100Meters>13.04</sprint100Meters>
+            <longJump>4.53</longJump>
+            <shotPut>7.79</shotPut>
+            <highJump>1.55</highJump>
+            <sprint400Meters>13.04</sprint400Meters>
+            <sprintHurdles>18.74</sprintHurdles>
+            <discusThrow>24.2</discusThrow>
+            <poleVault>2.4</poleVault>
+            <javelinThrow>28.2</javelinThrow>
+            <sprint1500Meters>410.76</sprint1500Meters>
+        </performance>
+    </athlete>
+    <athlete>
+        <name>Foo Bar</name>
+        <rank>5</rank>
+        <score>3099</score>
+        <performance>
+            <sprint100Meters>13.43</sprint100Meters>
+            <longJump>4.35</longJump>
+            <shotPut>8.64</shotPut>
+            <highJump>1.5</highJump>
+            <sprint400Meters>13.43</sprint400Meters>
+            <sprintHurdles>19.05</sprintHurdles>
+            <discusThrow>24.89</discusThrow>
+            <poleVault>2.2</poleVault>
+            <javelinThrow>33.48</javelinThrow>
+            <sprint1500Meters>411.01</sprint1500Meters>
+        </performance>
+    </athlete>
+</athletes>
